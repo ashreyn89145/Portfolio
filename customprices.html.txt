@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Custom Prices</title>
+	<link rel="stylesheet" type="text/css" href="customprices_html.css">
+</head>
+<body>
+<div class="textstyle1">
+  <div id="menu_526a9cdd">
+    <div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="≡" >
+	<div id="menuentry_5ad1743c"  class="menustyle1 menu_526a9cdd_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+      <span class="textstyle2">≡</span>
+		</div>
+	</div>
+</a>
+<a href="examples.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_3d8ccbb7"  class="menustyle2 menu_526a9cdd_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Examples</span>
+		</div>
+	</div>
+</a>
+<a href="aboutme.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_4e6f07ae"  class="menustyle3 menu_526a9cdd_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">About Me</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Custom Prices" >
+	<div id="menuentry_564289d1"  class="menustyle4 menu_526a9cdd_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Custom Prices</span>
+		</div>
+	</div>
+</a>
+<a href="forsale.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_6fe91bc7"  class="menustyle5 menu_526a9cdd_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">For Sale</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_526a9cdd= new wsp_menu('menu_526a9cdd', 'menu_526a9cdd', 25, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#C8C8C8', menuPaddingUsed: 25, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_526a9cdd.createMenuForItem('menuentry_5ad1743c', ["      <span class=\"textstyle3\">Examples</span> ", 'examples.html', '',
+		                                   "      <span class=\"textstyle3\">About Me</span> ", 'aboutme.html', '',
+		                                   "      <span class=\"textstyle3\">Custom Prices</span> ", 'javascript:void(0);', '',
+		                                   "      <span class=\"textstyle3\">For Sale</span> ", 'forsale.html', '']
+		                                   , true);
+		js_menu_526a9cdd.createMenuForItem('menuentry_3d8ccbb7', []);
+		js_menu_526a9cdd.createMenuForItem('menuentry_4e6f07ae', []);
+		js_menu_526a9cdd.createMenuForItem('menuentry_564289d1', []);
+		js_menu_526a9cdd.createMenuForItem('menuentry_6fe91bc7', []);
+
+	</script>
+      </div>
+    </div>
+  <div id="text_5e5c8731">
+    <div class="textstyle1">
+      <span class="textstyle4">Custom Prices</span>
+      </div>
+    </div>
+  <div id="text_3b4af324">
+    <div class="textstyle1">
+      <span class="textstyle5">Custom Game: Anywhere between 2500 - 5000<br/><br/>Custom Script: Anywhere between 1000 - 2000<br/><br/>Custom VFX: Anywhere between 800 - 1800<br/><br/>Custom System: Anywhere between 1400 - 2200</span>
+      </div>
+    </div>
+  <img src="rc_images/image_removebg_preview__8_.png" width="189" height="211" id="img_3634b17a" alt="" title="" />
+  <div id="text_53fe67b0">
+    <div class="textstyle1">
+      <span class="textstyle5">geezerforfun.</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

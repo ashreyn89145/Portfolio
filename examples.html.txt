@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Examples</title>
+	<link rel="stylesheet" type="text/css" href="examples_html.css">
+</head>
+<body>
+<div class="textstyle1">
+  <div id="menu_33c28df6">
+    <div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="≡" >
+	<div id="menuentry_694ba68e"  class="menustyle1 menu_33c28df6_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+      <span class="textstyle2">≡</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Examples" >
+	<div id="menuentry_1ebebf5c"  class="menustyle2 menu_33c28df6_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Examples</span>
+		</div>
+	</div>
+</a>
+<a href="aboutme.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_e90d421"  class="menustyle3 menu_33c28df6_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">About Me</span>
+		</div>
+	</div>
+</a>
+<a href="customprices.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_714e5a50"  class="menustyle4 menu_33c28df6_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Custom Prices</span>
+		</div>
+	</div>
+</a>
+<a href="forsale.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_17f3bcff"  class="menustyle5 menu_33c28df6_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">For Sale</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_33c28df6= new wsp_menu('menu_33c28df6', 'menu_33c28df6', 25, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#C8C8C8', menuPaddingUsed: 25, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_33c28df6.createMenuForItem('menuentry_694ba68e', ["      <span class=\"textstyle3\">Examples</span> ", 'javascript:void(0);', '',
+		                                   "      <span class=\"textstyle3\">About Me</span> ", 'aboutme.html', '',
+		                                   "      <span class=\"textstyle3\">Custom Prices</span> ", 'customprices.html', '',
+		                                   "      <span class=\"textstyle3\">For Sale</span> ", 'forsale.html', '']
+		                                   , true);
+		js_menu_33c28df6.createMenuForItem('menuentry_1ebebf5c', []);
+		js_menu_33c28df6.createMenuForItem('menuentry_e90d421', []);
+		js_menu_33c28df6.createMenuForItem('menuentry_714e5a50', []);
+		js_menu_33c28df6.createMenuForItem('menuentry_17f3bcff', []);
+
+	</script>
+      </div>
+    </div>
+  <div id="text_25bcdda2">
+    <div class="textstyle1">
+      <span class="textstyle4">Examples</span>
+      </div>
+    </div>
+  <div id="slide_73277115">
+	<script type="text/javascript" src="rc_images/wsp_slideshow.js"></script>
+	<script type="text/javascript">
+		var js_slide_73277115= new wsp_slideshow('slide_73277115',['rc_images/capture.png'], 'fade', 1000, 250, 'height', null, 'center', null,
+		{startPage: 0, enablePageIndicator: true, pageIndicatorPadding: 10, pageIndicatorButtonWidth: 10, pageIndicatorButtonHeight: 10, pageIndicatorButtonPadding: 5, pageIndicatorButtonColor: "#4D4D4D" , pageIndicatorButtonActiveColor: "#FFFFFF" , pageIndicatorButtonBorderRadius: 5, pageIndicatorButtonBorderWidth: 0, pageIndicatorButtonBorderColor: "#2F2F2F" , pageIndicatorBackColor: "rgba(58, 58, 58, 0.392157)" , pageIndicatorBackBorderRadius: 30, pageIndicatorBackMargin: 7, altTexts: 
+				['Lightsaber VFX']} );
+	</script>
+    </div>
+  <img src="rc_images/image_removebg_preview__8_.png" width="189" height="211" id="img_15f9c727" alt="" title="" />
+  <div id="text_1b166e26">
+    <div class="textstyle1">
+      <span class="textstyle5">geezerforfun.</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

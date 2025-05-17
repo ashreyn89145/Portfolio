@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>For Sale</title>
+	<link rel="stylesheet" type="text/css" href="forsale_html.css">
+</head>
+<body>
+<div class="textstyle1">
+  <div id="menu_71ad055a">
+    <div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="≡" >
+	<div id="menuentry_22bff3a2"  class="menustyle1 menu_71ad055a_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+      <span class="textstyle2">≡</span>
+		</div>
+	</div>
+</a>
+<a href="examples.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_261262a"  class="menustyle2 menu_71ad055a_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Examples</span>
+		</div>
+	</div>
+</a>
+<a href="aboutme.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_fb7d91b"  class="menustyle3 menu_71ad055a_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">About Me</span>
+		</div>
+	</div>
+</a>
+<a href="customprices.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_dda4e7e"  class="menustyle4 menu_71ad055a_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Custom Prices</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="For Sale" >
+	<div id="menuentry_12077a6"  class="menustyle5 menu_71ad055a_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">For Sale</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_71ad055a= new wsp_menu('menu_71ad055a', 'menu_71ad055a', 25, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#C8C8C8', menuPaddingUsed: 25, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_71ad055a.createMenuForItem('menuentry_22bff3a2', ["      <span class=\"textstyle3\">Examples</span> ", 'examples.html', '',
+		                                   "      <span class=\"textstyle3\">About Me</span> ", 'aboutme.html', '',
+		                                   "      <span class=\"textstyle3\">Custom Prices</span> ", 'customprices.html', '',
+		                                   "      <span class=\"textstyle3\">For Sale</span> ", 'javascript:void(0);', '']
+		                                   , true);
+		js_menu_71ad055a.createMenuForItem('menuentry_261262a', []);
+		js_menu_71ad055a.createMenuForItem('menuentry_fb7d91b', []);
+		js_menu_71ad055a.createMenuForItem('menuentry_dda4e7e', []);
+		js_menu_71ad055a.createMenuForItem('menuentry_12077a6', []);
+
+	</script>
+      </div>
+    </div>
+  <div id="text_5ef93a62">
+    <div class="textstyle1">
+      <span class="textstyle4">For Sale</span>
+      </div>
+    </div>
+  <div id="text_149e2e75">
+    <div class="textstyle1">
+      <span class="textstyle5">There are currently 0 items for sale. Come back later or check our </span>
+      <span class="textstyle5"><a href="forsale.html">Prices</a></span>
+      <span class="textstyle5"> to get your own thing built</span>
+      </div>
+    </div>
+  <img src="rc_images/image_removebg_preview__8_.png" width="189" height="211" id="img_2bc926a0" alt="" title="" />
+  <div id="text_61c472e7">
+    <div class="textstyle1">
+      <span class="textstyle6">geezerforfun.</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

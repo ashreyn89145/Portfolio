@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="index_html.css">
+</head>
+<body>
+<div class="textstyle1">
+  <div id="menu_e4bf9ac">
+    <div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="≡" >
+	<div id="menuentry_49364a9"  class="menustyle1 menu_e4bf9ac_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+      <span class="textstyle2">≡</span>
+		</div>
+	</div>
+</a>
+<a href="examples.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_25ee779"  class="menustyle2 menu_e4bf9ac_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Examples</span>
+		</div>
+	</div>
+</a>
+<a href="aboutme.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_4146eb3e"  class="menustyle3 menu_e4bf9ac_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">About Me</span>
+		</div>
+	</div>
+</a>
+<a href="customprices.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_594a0821"  class="menustyle4 menu_e4bf9ac_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">Custom Prices</span>
+		</div>
+	</div>
+</a>
+<a href="forsale.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_67c5a5c8"  class="menustyle5 menu_e4bf9ac_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle3">For Sale</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_e4bf9ac= new wsp_menu('menu_e4bf9ac', 'menu_e4bf9ac', 25, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#C8C8C8', menuPaddingUsed: 25, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_e4bf9ac.createMenuForItem('menuentry_49364a9', ["      <span class=\"textstyle3\">Examples</span> ", 'examples.html', '',
+		                                   "      <span class=\"textstyle3\">About Me</span> ", 'aboutme.html', '',
+		                                   "      <span class=\"textstyle3\">Custom Prices</span> ", 'customprices.html', '',
+		                                   "      <span class=\"textstyle3\">For Sale</span> ", 'forsale.html', '']
+		                                   , true);
+		js_menu_e4bf9ac.createMenuForItem('menuentry_25ee779', []);
+		js_menu_e4bf9ac.createMenuForItem('menuentry_4146eb3e', []);
+		js_menu_e4bf9ac.createMenuForItem('menuentry_594a0821', []);
+		js_menu_e4bf9ac.createMenuForItem('menuentry_67c5a5c8', []);
+
+	</script>
+      </div>
+    </div>
+  <div id="text_552b321a">
+    <div class="textstyle1">
+      <span class="textstyle4">ashreyn888s' Portfolio</span>
+      </div>
+    </div>
+  <a href="examples.html" style="text-decoration:none"><div id="button_41df46e">
+    <div class="vcenterstyle1"><div class="vcenterstyle2">      <div class="textstyle5">
+        <span class="textstyle6">Examples</span>
+        </div>
+      <div class="textstyle1">
+        </div>
+      </div></div>
+    </div></a>
+  <a href="aboutme.html" style="text-decoration:none"><div id="button_33793bb5">
+    <div class="vcenterstyle1"><div class="vcenterstyle2">      <div class="textstyle5">
+        <span class="textstyle6">About Me</span>
+        </div>
+      <div class="textstyle1">
+        </div>
+      </div></div>
+    </div></a>
+  <a href="customprices.html" style="text-decoration:none"><div id="button_4e2dc648">
+    <div class="vcenterstyle1"><div class="vcenterstyle2">      <div class="textstyle5">
+        <span class="textstyle6">Custom Prices</span>
+        </div>
+      <div class="textstyle1">
+        </div>
+      </div></div>
+    </div></a>
+  <a href="forsale.html" style="text-decoration:none"><div id="button_26f900e2">
+    <div class="vcenterstyle1"><div class="vcenterstyle2">      <div class="textstyle5">
+        <span class="textstyle6">For Sale</span>
+        </div>
+      <div class="textstyle1">
+        </div>
+      </div></div>
+    </div></a>
+  <img src="rc_images/image_removebg_preview__8_.png" width="189" height="211" id="img_353a5805" alt="" title="" />
+  <div id="text_3e2f4515">
+    <div class="textstyle1">
+      <span class="textstyle7">geezerforfun.</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
